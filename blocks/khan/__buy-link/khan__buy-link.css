@@ -6,8 +6,9 @@
   text-decoration: none;
   position: absolute;
 }
-.khan__buy-link:hover{
+
+.khan__buy-link:hover {
   /* text-decoration:underline currentColor;*/
-   opacity: 0.7;
-   transition: opacity 0.4s linear;
- }
+  opacity: 0.7;
+  transition: opacity 0.4s linear;
+}
